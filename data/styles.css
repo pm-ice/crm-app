@@ -9,6 +9,8 @@
 }
 .box_1 {
 }
+.ellipse {
+}
 .heading_1 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -56,6 +58,8 @@
 }
 .paragraph {
   text-align:left;
+}
+.line {
 }
 .icon {
 }
